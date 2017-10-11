@@ -1,21 +1,5 @@
 # zhihu
 
-> A Vue.js project
+知乎日报 手机端
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+基于该版本修改后的[XXX版](https://github.com/1008611/vue-zhihu)，可以打包生成apk
